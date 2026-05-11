@@ -14,6 +14,7 @@ This project analyzes transactional and customer financial data to identify:
 - Transaction anomalies and errors
 
 The dashboard was developed using Power BI with a relational data model connecting users, cards, and transactions datasets.
+> Power BI source file available upon request.
 
 ---
 
