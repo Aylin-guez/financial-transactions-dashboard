@@ -67,3 +67,9 @@ Dataset sourced from Kaggle:
 
 ### Risk & Anomalies
 ![Risk](screenshots/risk_anomalies.png)
+
+## Author
+
+Aylin Rodriguez
+
+Data Analysis | Data Reconstruction & Automation Specialist | Complex Workflows, PDFs | Python | Power BI
